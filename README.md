@@ -1,4 +1,4 @@
-# Rocket Seat Next Level Week
+# Rocket Seat 15° Next Level Week
 Projeto de gerenciamento de participantes em eventos presenciais, desenvolvido em C# com Web APIs e utilizando alguns conceitos do padrão DDD (Domain-driven Design).
 
 > [!IMPORTANT]
